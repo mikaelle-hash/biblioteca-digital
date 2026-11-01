@@ -1,0 +1,7 @@
+# Arquivos de configuração com senhas
+config/conexao.php
+
+# Arquivos temporários
+*.log
+.DS_Store
+Thumbs.db
