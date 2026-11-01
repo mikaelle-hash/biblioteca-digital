@@ -1,5 +1,7 @@
 # Arquivos de configuração com senhas
 config/conexao.php
+.env
+.env.*
 
 # Arquivos temporários
 *.log
